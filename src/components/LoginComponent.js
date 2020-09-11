@@ -64,12 +64,12 @@ class Login extends Component {
                                         <hr />
                                         <Row>
                                             <Col className="text-center">
-                                                <a href="#">Forgot Password?</a>
+                                                <a href="/resetPassword">Forgot Password?</a>
                                             </Col>
                                         </Row>
                                         <Row>
                                             <Col className="text-center">
-                                                <a href="#">Create an Account!</a>
+                                                <a href="/createAccount">Create an Account!</a>
                                             </Col>
                                         </Row>
                             </CardBody>
